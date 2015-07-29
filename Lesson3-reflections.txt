@@ -17,3 +17,8 @@ branch : is kind of pointing to a certain commit, in case you to add some kind o
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+
