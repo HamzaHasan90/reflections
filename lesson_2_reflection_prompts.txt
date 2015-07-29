@@ -12,3 +12,23 @@ How is the staging area different from the working directory and the repository?
 it gives the opportunity to see what are the exact files to be committe, before actually committing them.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+
+I add the files the make a logical change to the staging area before committing them.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When we want to add some features but we are not sure of them, so we make a trial of adding those features and add them to a certain branch.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+How do the diagrams help you visualize the branch structure?
+
+It gives me the ability to better understanding of the branch structure.
+
+----------------------------------------------------------------------------------------------------------------------------------------
